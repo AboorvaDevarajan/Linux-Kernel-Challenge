@@ -1,0 +1,1 @@
+cmd_/home/abu/Documents/git-repos/Eudyptula-Challenge/Task-1/hello.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.13.0-62-generic/scripts/module-common.lds --build-id  -o /home/abu/Documents/git-repos/Eudyptula-Challenge/Task-1/hello.ko /home/abu/Documents/git-repos/Eudyptula-Challenge/Task-1/hello.o /home/abu/Documents/git-repos/Eudyptula-Challenge/Task-1/hello.mod.o

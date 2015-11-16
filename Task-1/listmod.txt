@@ -1,0 +1,2 @@
+abu@abu-VPCEB34EN:~/Documents/git-repos/Eudyptula-Challenge/Task-1$ lsmod | grep "hello"
+hello                  12428  0 
